@@ -33,9 +33,9 @@ const HeaderLeft = () => {
               Mission
             </NavLink>
             <NavLink 
-              to="/Workshop" 
+              to="/vision" 
               className="text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-all duration-300 text-sm"
-              aria-label="Workshop"
+              aria-label="Vision"
             >
               Vision
             </NavLink>
@@ -77,7 +77,7 @@ const HeaderLeft = () => {
           <NavLink 
             onClick={() => setVisible(false)} 
             className='py-3 pl-6 border-b border-gray-700 flex flex-start hover:bg-gray-800' 
-            to='/Workshop'
+            to='/vision'
           >
             Vision
           </NavLink>
@@ -91,9 +91,9 @@ const HeaderLeft = () => {
           <NavLink 
             onClick={() => setVisible(false)} 
             className='py-3 pl-6 border-b border-gray-700 flex flex-start hover:bg-gray-800' 
-            to='/Account'
+            to='/learn'
           >
-            Volunteer
+            Learn
           </NavLink>
           <NavLink 
             onClick={() => setVisible(false)} 

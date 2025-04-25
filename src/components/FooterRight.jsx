@@ -26,6 +26,7 @@ const FooterRight = () => {
 
   const socialLinks = [
     { icon: <FaInstagram />, url: "https://www.instagram.com/bodhvriksha?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==", label: "Instagram" },
+    { icon: <FaLinkedinIn />, url: "https://www.linkedin.com/company/bodhvriksha/", label: "LinkedIn" },
     { icon: <FaYoutube />, url: "https://youtube.com", label: "YouTube" },
   ];
 

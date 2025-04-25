@@ -41,18 +41,18 @@ const HeaderRight = () => {
             </NavLink>
 
             <NavLink 
-              to="/Account" 
+              to="/learn" 
               className="text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-all duration-300 text-sm"
               aria-label="Account"
             >
-              Volunteer
+              Learn
             </NavLink>
            
            
             <NavLink 
-              to="/Workshop" 
+              to="/vision" 
               className="text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-all duration-300 text-sm"
-              aria-label="Workshop"
+              aria-label="vision"
             >
               Vision
             </NavLink>
@@ -104,9 +104,9 @@ const HeaderRight = () => {
           <NavLink 
             onClick={() => setVisible(false)} 
             className='py-3 pl-6 border-b border-gray-700 flex flex-start hover:bg-gray-800' 
-            to='/Workshop'
+            to='/vision'
           >
-            WorkShop
+            Vision
           </NavLink>
           <NavLink 
             onClick={() => setVisible(false)} 
@@ -118,9 +118,9 @@ const HeaderRight = () => {
           <NavLink 
             onClick={() => setVisible(false)} 
             className='py-3 pl-6 border-b border-gray-700 flex flex-start hover:bg-gray-800' 
-            to='/Account'
+            to='/learn'
           >
-            Account
+            learn
           </NavLink>
           <NavLink 
             onClick={() => setVisible(false)} 
@@ -141,7 +141,7 @@ const HeaderRight = () => {
             className='py-3 pl-6 border-b border-gray-700 flex flex-start hover:bg-gray-800' 
             to='/signin'
           >
-            Sign out
+            Sign In
           </NavLink>
         </div>
       </div>
