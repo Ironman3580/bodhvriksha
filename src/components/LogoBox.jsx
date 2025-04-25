@@ -14,7 +14,7 @@ const LogoBox = () => {
         <div className='flex flex-col ml-2 md:ml-3'>
           <h1 className='text-white text-xl md:text-2xl font-medium'>BodhVriksha</h1>
           <p className='text-white text-xs md:text-sm hidden sm:block'>
-            planting seeds of digital wisdom
+            Planting Seeds Of Digital Literacy!
           </p>
         </div>
       </Link>

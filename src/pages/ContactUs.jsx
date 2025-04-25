@@ -11,7 +11,6 @@ const ContactUs = () => {
   return (
     <>
       <HeaderRight />
-
       {/* <ParticleBackground /> */}
       {/* <TeamMemberCard /> */}
       <BackGround />
