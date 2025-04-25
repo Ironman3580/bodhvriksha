@@ -3,16 +3,14 @@ import BackGround from '../components/backGround';
 import FooterRight from '../components/FooterRight';
 import FooterLeft from '../components/FooterLeft'
 import HeaderRight from '../components/HeaderRight';
-import BackGroundText from '../components/BackGroundText';
- // Make sure this import exists
-// import ParticleBackground from '../components/ParticalBackground'
+import TeamMemberCard from '../components/TeamMemberCard'; 
 
-const Signin = () => {
+
+const TeamMember = () => {
   return (
     <div>
       <HeaderRight />
-      <BackGroundText />
-
+      <TeamMemberCard />
       <BackGround />
       <FooterLeft />
       <FooterRight />
@@ -21,5 +19,5 @@ const Signin = () => {
   );
 };
 
-export default Signin;
+export default TeamMember;
 
