@@ -3,7 +3,7 @@ import { UpcomingEventsdata } from '../data/UpcomingEventData';
 
 const UpcomingEvents = () => {
   return (
-    <div className='relative md:absolute w-full md:w-auto h-auto md:h-[70%] upcoming-events md:top-32 left-0 p-4 md:p-6 md:mr-40 md:ml-40 bg-gray-900 text-white rounded-lg'>
+    <div className='relative md:absolute w-full md:w-[79%] h-auto md:h-[70%] upcoming-events md:top-32 left-0 p-4 md:p-6 md:mr-40 md:ml-40 bg-gray-900 text-white rounded-lg'>
       <h2 className='text-xl md:text-2xl flex justify-center font-bold mb-4 md:mb-6 text-gray-200'>What We Do</h2>
 
       <div className='events-grid grid gap-4 sm:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3'>
