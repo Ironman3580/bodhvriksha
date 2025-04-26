@@ -11,7 +11,7 @@ const BackGroundText = () => {
         text-white text-[4rem] md:text-[10rem]
         opacity-80 font-bold
         top-[20%] md:top-[35%]
-        left-1/2 md:left-[23%]
+        left-[10%] md:left-[20%]
         transform -translate-x-1/2 md:transform-none
         whitespace-nowrap
         hidden md:block
