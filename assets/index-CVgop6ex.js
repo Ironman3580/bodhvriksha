@@ -70,7 +70,7 @@ Please change the parent <Route path="${_}"> to <Route path="${_==="/"?"*":`${_}
         text-white text-[4rem] md:text-[10rem]\r
         opacity-80 font-bold\r
         top-[20%] md:top-[35%]\r
-        left-1/2 md:left-[23%]\r
+        left-[10%] md:left-[20%]\r
         transform -translate-x-1/2 md:transform-none\r
         whitespace-nowrap\r
         hidden md:block\r
