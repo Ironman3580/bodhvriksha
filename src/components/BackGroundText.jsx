@@ -10,11 +10,11 @@ const BackGroundText = () => {
         absolute
         text-white text-[4rem] md:text-[10rem]
         opacity-80 font-bold
-        top-[20%] md:top-[35%]
-        left-[15%] md:left-[15%]
+        top-[45%] md:top-[35%]
+        left-[50%] md:left-[15%]
         transform -translate-x-1/2 md:transform-none
         whitespace-nowrap
-        hidden md:block
+        md:block
       '>
         BodhVriksha
         </p>

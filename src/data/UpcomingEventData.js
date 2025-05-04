@@ -2,8 +2,8 @@
 export const UpcomingEventsdata = [
     {
       id: 1,
-      title: 'School Visit 2023',
-      date: 'October 15, 2023',
+      title: 'School Visit 2025',
+      date: 'October 15, 2025',
       location: 'zilla Parishad school ',
       description: 'Visit to our school for a day.'
     },
