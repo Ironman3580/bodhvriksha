@@ -33,9 +33,9 @@ const About = () => {
             <li>3.Saistavananjali Kute</li>
             <li>4.Samarth Dhawale</li>
             <li>5.manorama Kate</li>
-            <li>6.Nihaal Mokashi</li>
+
           </ol>
-          With this 6 teammates Bodhvriksha came to an existence</p>
+          With this 5 teammates Bodhvriksha came to an existence</p>
         <br />
         <p className='text-lg md:text-xl  text-blue-400'>
           The name itself suggests the central idea for this organization where <b className='font-italic'>Bodh :-</b>  means the Knowledge And Awareness,<br /><b>Vriksha :-</b>vriksha resembles to the Tree
