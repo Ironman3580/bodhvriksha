@@ -14,6 +14,13 @@ export const TeamData = [
       date: 'December 10, 2023',
       domain: 'Public Realtion Head',
       description: 'Public Realtion and Marketing Head.'
+  },
+    {
+      id: 3,
+      name: 'Prathmesh Anantwar',
+      date: 'December 10, 2023',
+      domain: 'strategic planning',
+      description: 'strategic planning for the organization'
     },
   
 ];
