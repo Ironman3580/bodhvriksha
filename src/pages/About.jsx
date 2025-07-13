@@ -14,7 +14,7 @@ const About = () => {
       {/* <ParticleBackground /> */}
       {/* <TeamMemberCard /> */}
       <BackGround />
-      <div className='relative md:absolute w-full md:w-auto h-[95%] md:h-[90%] md:top-32 left-0 p-4 md:p-6 md:mr-40 md:ml-40 bg-gray-900 text-white rounded-lg overflow-y-auto '>
+      <div className='relative md:absolute w-full md:w-auto h-[95%] md:h-[90%] md:top-32 left-0 p-4 md:p-6 md:mr-40 md:ml-40 bg-gradient-to-b from-violet-950 to-grey-950 text-white rounded-lg overflow-y-auto '>
         <h2 className='text-xl md:text-2xl flex justify-center font-bold mb-4 md:mb-6 text-gray-200'>About Us</h2>
 
         <p className='text-lg md:text-xl text-blue-400'>

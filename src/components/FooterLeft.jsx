@@ -22,14 +22,14 @@ const FooterLeft = () => {
           <div className="flex gap-4">
             <NavLink 
               to="/Contact" 
-              className="text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-all duration-300 text-sm"
+              className="text-white px-4 py-2 rounded-md hover:bg-violet-800 transition-all duration-300 text-sm"
               aria-label="Contact"
             >
               Contact Us
             </NavLink>
             <NavLink 
               to="/About" 
-              className="text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-all duration-300 text-sm"
+              className="text-white px-4 py-2 rounded-md hover:bg-violet-800 transition-all duration-300 text-sm"
               aria-label="About Us"
             >
               About Us

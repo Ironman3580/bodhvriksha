@@ -54,7 +54,7 @@ const FooterRight = () => {
                   href={link.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-white bg-black bg-opacity-90 p-3 rounded-full hover:bg-gray-800 shadow-lg"
+                  className="text-white bg-black bg-opacity-90 p-3 rounded-full hover:bg-violet-800 shadow-lg"
                   aria-label={link.label}
                   whileTap={{ scale: 0.9 }}
                   whileHover={{ scale: 2 }}
@@ -110,7 +110,7 @@ const FooterRight = () => {
               href={link.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-white hover:text-gray-400 p-2 rounded-full hover:bg-gray-800 transition-all duration-300 text-lg"
+              className="text-white hover:text-violet-400 p-2 rounded-full hover:bg-violet-800 transition-all duration-300 text-lg"
               aria-label={link.label}
               variants={iconVariants}
               initial="hidden"

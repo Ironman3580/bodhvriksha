@@ -12,7 +12,7 @@ const signin = () => {
       <HeaderLeft />
         <HeaderRight />
       <BackGround />
-      <div className='absolute md:absolute w-full md:w-[79%] h-auto md:h-[70%] contact-us md:top-32 left-0 p-4 md:p-6 md:mr-40 md:ml-40 bg-gray-900 text-white rounded-lg '>
+      <div className='absolute md:absolute w-full md:w-[79%] h-auto md:h-[70%] contact-us md:top-32 left-0 p-4 md:p-6 md:mr-40 md:ml-40 bg-gradient-to-b from-violet-950 to-grey-950 text-white rounded-lg '>
         <h2 className='text-xl md:text-2xl flex justify-center font-bold mb-4 md:mb-6 text-gray-200'>Register</h2>
 
         <p className='text-lg md:text-xl font-semibold text-blue-400 text-center'>To Sign in as a volunteer</p>

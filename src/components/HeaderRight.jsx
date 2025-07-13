@@ -20,21 +20,21 @@ const HeaderRight = () => {
           <div className="flex gap-4">
           <NavLink 
               to="/" 
-              className="text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-all duration-300 text-sm"
+              className="text-white px-4 py-2 rounded-md hover:bg-violet-800 transition-all duration-300 text-sm"
               aria-label="Home"
             >
               Home
             </NavLink>
             <NavLink 
               to="/team" 
-              className="text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-all duration-300 text-sm"
+              className="text-white px-4 py-2 rounded-md hover:bg-violet-800 transition-all duration-300 text-sm"
               aria-label="Team Member"
             >
               Team Member
             </NavLink>
             <NavLink 
               to="/Events" 
-              className="text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-all duration-300 text-sm"
+              className="text-white px-4 py-2 rounded-md hover:bg-violet-800 transition-all duration-300 text-sm"
               aria-label="Events"
             >
               What We Do
@@ -42,7 +42,7 @@ const HeaderRight = () => {
 
             <NavLink 
               to="/learn" 
-              className="text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-all duration-300 text-sm"
+              className="text-white px-4 py-2 rounded-md hover:bg-violet-800 transition-all duration-300 text-sm"
               aria-label="Account"
             >
               Learn
@@ -51,14 +51,14 @@ const HeaderRight = () => {
            
             <NavLink 
               to="/vision" 
-              className="text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-all duration-300 text-sm"
+              className="text-white px-4 py-2 rounded-md hover:bg-violet-800 transition-all duration-300 text-sm"
               aria-label="vision"
             >
               Vision
             </NavLink>
             <NavLink 
               to="/Signin" 
-              className="text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-all duration-300 text-sm"
+              className="text-white px-4 py-2 rounded-md hover:bg-violet-800 transition-all duration-300 text-sm"
               aria-label="signin"
             >
               signin
