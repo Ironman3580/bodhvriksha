@@ -13,7 +13,6 @@ const TeamMemberCard = () => {
                 <p className='text-sm md:text-base text-gray-400 mb-1'><span className='font-medium'>Date:</span> {team.date}</p>
                 <p className='text-sm md:text-base text-gray-400 mb-1'><span className='font-medium'>Position:</span> {team.domain}</p>
                 <p className='text-sm md:text-base text-gray-300 mt-2 md:mt-3'>{team.description}</p>
-               
               </div>
             ))}
           </div>
